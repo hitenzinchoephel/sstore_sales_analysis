@@ -72,11 +72,19 @@ Line Charts are used for the following list to compare performances of Current y
 ## Recommendations 
 Here is the list of recommendations to improve sales and generate more revenues 
 * I don't know
-* I don't know  
-   
+* I don't know
 
 
+## 🛠️ Tools Used 
+ 1. Super store datasets
+ 2. Tableau Desktop 
+ 3. Visuals: KPI, Line Chart, Pie Chart, Bar Chart, Matrix Table (Tabular View)
+ 4. SQL 
+ 5. Jupyter Notebook   
 
+
+## ✍️ Author 
+Developed and Designed by Tenzin Choephel (10zin).  Open for constructive feedbacks and collaboration and etc. Love to learn and hear from other's view and perspective. 
 
 
 
