@@ -1,10 +1,10 @@
 # Super Store Sales Analysis with Visualization - Tableau | SQL 
 
-### Goal 
+## Goal 
  This sales dashboard is designed to visualize and analyze retail sales datasets to find the key metrics and generate insights and make recommendations to improve the sales performance.
 
 
-### 📌 Key Metrics (KPI)
+## 📌 Key Metrics (KPI)
 #### Executive Dashboard 
 * 🚀 Total Sales : $733K
 * 💰 Profit : $93k
@@ -15,15 +15,15 @@
 * 👨‍👩‍👧‍👦 Total Customer : 693 
 * 🛒 Total Orders : 1687
 
-### Visual Charts & KPI
+## 📊 Visual Charts & KPI
 
-#### KPI Cards
+#### 1. KPI Cards
 * Total Sales
 * Total Profit
 * Total Quantity
 * AOV
 
-#### Line Charts 
+#### 2. Line Charts 
 Line Charts are used for the following list to compare performances of Current year and Previous Years (CY Sales / PY Sales)
 * Total Sales 
 * Total Profit
@@ -32,7 +32,7 @@ Line Charts are used for the following list to compare performances of Current y
 * Total Customers
 * Total Orders
 
-#### Bar Charts
+#### 3. Bar Charts
 1. The sales by segments performed are displayed and compared using the bar chart.  Consumer, Corporate and Home Office
    - Consumer : $332K / $296.9K (CY Sales / PY Sales )
    - Corporate : $242k / $207K (CY Sales / PY Sales )
@@ -44,7 +44,7 @@ Line Charts are used for the following list to compare performances of Current y
    - Storage : 70K 
    - Copiers : 63K
   
-#### Pie Chart 
+#### 4. Pie Chart 
 1. Sales by region for current year is analyzed with pie chart and we found following insights.
    - Total Sale is : $ $733K
    - Central : $147K
@@ -54,6 +54,28 @@ Line Charts are used for the following list to compare performances of Current y
 
 *<ins>Note: We found that the West performed best followed by East , Central and South respectively</ins>*
 
+#### 5. Table Matrix ( Tabular View) 
+1. Top 10 Customers by Sales Volumn.
+2. Top 10 Subcategories by Sales Volumn.
+3. Top 10 State by Sales Volumns.
+
+#### 6. Map
+* shows sales volumn across the USA with States and Cities
+
+#### 7. Filters 
+1. Location
+   * State
+   * Region
+   * City
+  
+3. Product
+   * Category
+   * Subcategory
+## Recommendations 
+Here is the list of recommendations to improve sales and generate more revenues 
+* I don't know
+* I don't know  
+   
 
 
 
