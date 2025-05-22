@@ -1,7 +1,8 @@
 # Super Store Sales Analysis with Visualization - Tableau | SQL 
+![Sales Dashboard](img/s1.png) 
 
 ## Goal 
- This sales dashboard is designed to visualize and analyze retail sales datasets to find the key metrics and generate insights and make recommendations to improve the sales performance.
+ This [sales dashboard](https://public.tableau.com/views/salesdashboardfinal_17478556507880/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link) is designed to visualize and analyze retail sales datasets to find the key metrics and generate insights and make recommendations to improve the sales performance.
 
 
 ## 📌 Key Metrics (KPI)
@@ -80,11 +81,16 @@ Here is the list of recommendations to improve sales and generate more revenues
  2. Tableau Desktop 
  3. Visuals: KPI, Line Chart, Pie Chart, Bar Chart, Matrix Table (Tabular View)
  4. SQL 
- 5. Jupyter Notebook   
+ 5. Jupyter Notebook
+    
+![Customer Dashboard](img/s2.png) 
 
+## Useful Links
+* Project Tableau Visualization can be found at below link
+* [Click Here](https://public.tableau.com/views/salesdashboardfinal_17478556507880/SalesDashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## ✍️ Author 
-Developed and Designed by Tenzin Choephel (10zin).  Open for constructive feedbacks and collaboration and etc. Love to learn and hear from other's view and perspective. 
+Developed and Designed by Tenzin Choephel (10zin).  Open for feedbacks, guidance and collaboration and etc. Love to learn and hear from other's view and perspective.
 
 
 
