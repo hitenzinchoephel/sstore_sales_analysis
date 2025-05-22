@@ -64,13 +64,11 @@ Line Charts are used for the following list to compare performances of Current y
 
 #### 7. Filters 
 1. Location
-   * State
-   * Region
-   * City
+   * State | Region | City
   
 3. Product
-   * Category
-   * Subcategory
+   * Category | Subcategory
+  
 ## Recommendations 
 Here is the list of recommendations to improve sales and generate more revenues 
 * I don't know
