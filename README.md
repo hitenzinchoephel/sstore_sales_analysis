@@ -72,8 +72,8 @@ Line Charts are used for the following list to compare performances of Current y
   
 ## Recommendations 
 Here is the list of recommendations to improve sales and generate more revenues 
-* I don't know
-* I don't know
+* Machine has better sales than many but it's profit is low compared to the previous years so, need further analysis and find the causes. 
+* April has lower profit and need to stragize the sales funnel. 
 
 
 ## 🛠️ Tools Used 
